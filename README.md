@@ -37,7 +37,7 @@
 * [[PL/SQL] Performance tuning concepts](https://binh12a3.medium.com/pl-sql-performance-tuning-concepts-a3511f8fde16)
 * [[PL/SQL] Performance tuning - DBMS_PROFILER](https://binh12a3.medium.com/pl-sql-performance-tuning-dbms-profiler-5335daa0edb9)
 * [[PL/SQL] Performance tuning - Bulk Binding](https://binh12a3.medium.com/pl-sql-performance-tuning-bulk-binding-622e3663a424)
-* [[PL/SQL] Performance tuning — Table Index](https://binh12a3.medium.com/pl-sql-performance-tuning-table-index-and-hints-a5c537d16d99)
+* [[PL/SQL] Performance tuning - Table Index](https://binh12a3.medium.com/pl-sql-performance-tuning-table-index-and-hints-a5c537d16d99)
 * [[PL/SQL] Performance tuning - Table Partition](https://binh12a3.medium.com/pl-sql-performance-tuning-table-partition-64dabb921cc5)
 * [[PL/SQL] Performance tuning tips](https://binh12a3.medium.com/pl-sql-performance-tuning-tips-6edd517e3bc7)
 
