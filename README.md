@@ -48,7 +48,7 @@
 * [[PL/SQL] Analytical Functions](https://binh12a3.medium.com/pl-sql-analytical-functions-80d3424445e6)
 * [[PL/SQL] SQL*Plus commands](https://binh12a3.medium.com/pl-sql-sql-plus-commands-64458ed0a9c3)
 * [[PL/SQL] Oracle interview questions](https://binh12a3.medium.com/pl-sql-oracle-interview-questions-c167d6023e13)
-* [[PL/SQL] Useful functions we should knows](https://binh12a3.medium.com/oracle-plsql-useful-functions-we-should-know-b61ae3285ca4
+* [[PL/SQL] Useful functions we should knows](https://binh12a3.medium.com/oracle-plsql-useful-functions-we-should-know-b61ae3285ca4)
 * [[PL/SQL] Things we should know](https://binh12a3.medium.com/pl-sql-things-we-should-know-1523e387a0d6)
 * [[PL/SQL] Advanced things we should know - Part 1](https://binh12a3.medium.com/oracle-pl-sql-advanced-things-we-should-know-part-1-a70858dab0c9)
 
