@@ -41,8 +41,11 @@
 * [[PL/SQL] Performance tuning - Table Partition](https://binh12a3.medium.com/pl-sql-performance-tuning-table-partition-64dabb921cc5)
 * [[PL/SQL] Performance tuning tips](https://binh12a3.medium.com/pl-sql-performance-tuning-tips-6edd517e3bc7)
 
-### Others
+### Installations
 * [[PL/SQL] Install/Uninstall Oracle 19c](https://binh12a3.medium.com/pl-sql-install-uninstall-oracle-19c-aaa1da667b5d)
+* [[PL/SQL] Install Oracle Forms 12.2.1.4](https://binh12a3.medium.com/pl-sql-install-oracle-forms-12-2-1-4-9da16a0d1f02)
+
+### Others
 * [[PL/SQL] COMMIT/ROLLBACK Hunter](https://binh12a3.medium.com/pl-sql-commit-rollback-hunter-2819304f6a9a5)
 * [[PL/SQL] Temporary Table](https://binh12a3.medium.com/pl-sql-temporary-table-f9363bfd5382)
 * [[PL/SQL] Analytical Functions](https://binh12a3.medium.com/pl-sql-analytical-functions-80d3424445e6)
