@@ -55,6 +55,15 @@
 * [[PL/SQL] Things we should know](https://binh12a3.medium.com/pl-sql-things-we-should-know-1523e387a0d6)
 * [[PL/SQL] Advanced things we should know - Part 1](https://binh12a3.medium.com/oracle-pl-sql-advanced-things-we-should-know-part-1-a70858dab0c9)
 
+
+# C++
+* [[C++] From Zero to Hero](https://binh12a3.medium.com/c-from-zero-to-hero-84c8ff2ae2df5)
+* [[C++] Datatypes](https://binh12a3.medium.com/c-datatypes-96f55430ebdb)
+* [[C++] Operators](https://binh12a3.medium.com/c-operators-eec3e4446c51)
+* [[C++] Variables](https://binh12a3.medium.com/c-variable-c9f47ef53f2f)
+* [[C++] Constants](https://binh12a3.medium.com/c-constants-647740f088b5)
+
+
 # C#
 * [[c#] An easy way to add license for C# application with Firebase-Realtime Database](https://binh12a3.medium.com/the-easy-way-to-add-license-for-c-application-with-firebase-realtime-database-a13ede04ceb0)
 * [[C#] Modern UI design](https://binh12a3.medium.com/c-modern-ui-design-4c4db8f483a1)
